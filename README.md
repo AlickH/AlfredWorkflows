@@ -1,6 +1,6 @@
 # Hide.alfredworkflow
-Hide or Unhide Files or Folders in macOS
+Hide or Unhide Files or Folders in macOS with Alfred Workflow
 
 #Preview
-![1](https://i.imgur.com/SBLKyYp.png)
-![2](https://i.imgur.com/4eERWRB.gif)
+![1](preview1.png)
+![2](preview2.gif)

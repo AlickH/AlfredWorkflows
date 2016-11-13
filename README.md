@@ -27,6 +27,8 @@ Special thanks to [anlar](https://github.com/anlar/prismriver-lyrics)
 ![3](getlyrics3.png)
 ![4](getlyrics4.png)
 
+[preview movie](https://youtu.be/nJPrVlOMQko)
+
 
 #prismriver-lyrics.alfredworkflow
 Get lyrics with shortcut with QT5 UI

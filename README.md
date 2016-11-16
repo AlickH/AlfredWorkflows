@@ -43,3 +43,13 @@ Just for Archive = =
 
 存档的残废品，不想说了，心好累 = =
 
+
+#Übersicht Widgets Desktop Lyrics
+
+Show lyrics from iTunes on desktop with [Übersicht](http://tracesof.net/uebersicht/) Widgets
+
+modified from [Pe8er/iTunesLyrics.widget](https://github.com/Pe8er/iTunesLyrics.widget)
+
+![](Übersicht Widgets.png)
+
+

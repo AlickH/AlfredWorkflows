@@ -52,4 +52,10 @@ modified from [Pe8er/iTunesLyrics.widget](https://github.com/Pe8er/iTunesLyrics.
 
 ![](Übersicht Widgets.png)
 
+V2
 
+![V2](Übersicht widgets V2.png)
+
+V3
+
+![V3](Übersicht widgets V3.png)

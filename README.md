@@ -84,3 +84,9 @@ V3
 搜索网易云音乐
 
 用 mpv 直接播放或下载
+
+
+#Battery.alfredworkflow
+显示电池信息
+
+![](battery.png)

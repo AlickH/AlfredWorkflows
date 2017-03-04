@@ -59,3 +59,28 @@ V2
 V3
 
 ![V3](Übersicht widgets V3.png)
+
+
+#bilibili.workflow
+直接搜索并用 mpv 播放 bilibili 视频
+
+可订阅UP主
+
+有弹幕
+
+![](bilibili.gif)
+
+
+#Brightness.alfredworkflow
+输入数字调节屏幕亮度
+
+1最亮 
+
+其他数字亮度为0.x
+
+
+#网易云音乐搜索.alfredworkflow
+
+搜索网易云音乐
+
+用 mpv 直接播放或下载

@@ -90,3 +90,11 @@ V3
 显示电池信息
 
 ![](battery.png)
+
+
+#Get Lyrics 2.0.alfredworkflow
+使用 workflow script filter 显示歌词选择器
+
+![](GL1.png)
+
+![](GL2.png)

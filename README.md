@@ -103,3 +103,51 @@ V3
 #DM5.alfredworkflow
 
 ![](DM5.gif)
+
+
+#Music163 2.0.alfredworkflow
+依然是拼拼凑凑
+
+可以显示封面和歌词，并 scrobble 到 last.fm 了
+
+主 workflow 来自 https://github.com/goodbest/Alfred_Workflow_Music163
+
+播放采用 iscript 的 https://github.com/PeterDing/iScript
+
+不过被我改得有点无法直视了 = =
+
+歌词需要 ruby 支持，请确保自己已安装 ruby
+
+参考 https://github.com/lin714093880/netease-lyrics-downloader
+
+last.fm 需要安装 https://github.com/hauzer/scrobbler
+
+需要 python3
+
+步骤如下，无耐心者慎看 = =
+
+git clone 到本地，然后
+
+终端内输入 cd 进入该文件夹
+
+python3 setup.py build
+
+python3 setup.py install
+
+然后把 scrobbler 文件夹内三个文件拷入 /usr/local/bin/文件夹内以防万一
+
+然后把 scrobbler.py 的扩展名 .py 去掉，不要问我为什么 = =
+
+然后终端里输入
+
+scrobbler add-user
+
+然后根据提示进行授权
+
+然后进入安装后的这个 workflow 的文件夹里打开 wyy 文件搜索找到 minamike2007
+
+这是我的 last.fm 账户名称 请改成你的账户名并保存 = =
+
+有没有很晕 说实话我也有点晕 （生无可恋脸）
+
+![](M1632.0.png)

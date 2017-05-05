@@ -6,7 +6,7 @@ Hide or Unhide Files or Folders in macOS with Alfred Workflow
 ![2](preview2.gif)
 
 
-#Toggle input method.alfredworkflow
+# Toggle input method.alfredworkflow
 Set shortcut for each IM
 
 为每个输入法自定义快捷键
@@ -14,7 +14,7 @@ Set shortcut for each IM
 ![2](ToggleIM1.gif)
 
 
-#Get Lyrics.alfredworkflow
+# Get Lyrics.alfredworkflow
 Get lyrics with shortcut with Applescript UI
 
 Applescript 和 python 写的快捷键获取歌词，英文和日文匹配度高，华语歌曲支持残废 = =
@@ -30,7 +30,7 @@ Special thanks to [anlar](https://github.com/anlar/prismriver-lyrics)
 [preview movie](https://youtu.be/nJPrVlOMQko)
 
 
-#prismriver-lyrics.alfredworkflow
+# prismriver-lyrics.alfredworkflow
 Get lyrics with shortcut with QT5 UI
 
 QT5 界面的歌词获取器，自动监听 iTunes 获取歌名与歌手，和上面的👆用的一样的源，不过上面的精简了一些获取库，所以速度会快一些 = =
@@ -38,13 +38,13 @@ QT5 界面的歌词获取器，自动监听 iTunes 获取歌名与歌手，和�
 ![2](prismriver2.png)
 
 
-#Lyrics.alfredworkflow
+# Lyrics.alfredworkflow
 Just for Archive = =
 
 存档的残废品，不想说了，心好累 = =
 
 
-#Übersicht Widgets Desktop Lyrics
+# Übersicht Widgets Desktop Lyrics
 
 Show lyrics from iTunes on desktop with [Übersicht](http://tracesof.net/uebersicht/) Widgets
 
@@ -61,7 +61,7 @@ V3
 ![V3](Übersicht widgets V3.png)
 
 
-#bilibili.workflow
+# bilibili.workflow
 直接搜索并用 mpv 播放 bilibili 视频
 
 可订阅UP主
@@ -71,7 +71,7 @@ V3
 ![](bilibili.gif)
 
 
-#Brightness.alfredworkflow
+# Brightness.alfredworkflow
 输入数字调节屏幕亮度
 
 1最亮 
@@ -79,20 +79,20 @@ V3
 其他数字亮度为0.x
 
 
-#网易云音乐搜索.alfredworkflow
+# 网易云音乐搜索.alfredworkflow
 
 搜索网易云音乐
 
 用 mpv 直接播放或下载
 
 
-#Battery.alfredworkflow
+# Battery.alfredworkflow
 显示电池信息
 
 ![](battery.png)
 
 
-#Get Lyrics 2.0.alfredworkflow
+# Get Lyrics 2.0.alfredworkflow
 使用 workflow script filter 显示歌词选择器
 
 ![](GL1.png)
@@ -100,12 +100,12 @@ V3
 ![](GL2.png)
 
 
-#DM5.alfredworkflow
+# DM5.alfredworkflow
 
 ![](DM5.gif)
 
 
-#Music163 2.0.alfredworkflow
+# Music163 2.0.alfredworkflow
 依然是拼拼凑凑
 
 可以显示封面和歌词，并 scrobble 到 last.fm 了

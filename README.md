@@ -1,3 +1,8 @@
+# Alfred 3 theme : Launchbar
+![](launchbar.jpg)
+<b>[import theme](https://www.alfredapp.com/extras/theme/slkYAfoUyf/)</b>
+
+
 # Hide.alfredworkflow
 Hide or Unhide Files or Folders in macOS with Alfred Workflow
 

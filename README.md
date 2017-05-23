@@ -1,3 +1,9 @@
+# NightShift.alfredworkflow
+System Night Shift Toggle and Change Warmth Strength
+Used [nshift](https://github.com/jenghis/nshift)
+![](nightshift.png)
+
+
 # Alfred 3 theme : Launchbar
 ![](launchbar.jpg)
 <b>[import theme](https://www.alfredapp.com/extras/theme/slkYAfoUyf/)</b>

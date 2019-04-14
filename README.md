@@ -61,15 +61,15 @@ Show lyrics from iTunes on desktop with [Übersicht](http://tracesof.net/uebersi
 
 modified from [Pe8er/iTunesLyrics.widget](https://github.com/Pe8er/iTunesLyrics.widget)
 
-![](Übersicht Widgets.png)
+![](Übersicht%20Widgets.png)
 
 V2
 
-![V2](Übersicht widgets V2.png)
+![V2](Übersicht%20widgets%20V2.png)
 
 V3
 
-![V3](Übersicht widgets V3.png)
+![V3](Übersicht%20widgets%20V3.png)
 
 
 # bilibili.workflow
